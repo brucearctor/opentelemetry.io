@@ -6,7 +6,7 @@ aliases: [metric_service_features, metric-features, ../metric-features]
 
 | Service         | Language   | Instrumentation Libraries | Manual Instrumentation | Multiple Instruments | Views | Custom Attributes | Resource Detection | Exemplars |
 | --------------- | ---------- | ------------------------- | ---------------------- | -------------------- | ----- | ----------------- | ------------------ | --------- |
-| Accounting      | Go         | 🚧                        | 🚧                     | 🚧                   | 🚧    | 🚧                | 🚧                 | 🚧        |
+| Accounting      | .NET       | 🚧                        | 🚧                     | 🚧                   | 🚧    | 🚧                | 🚧                 | 🚧        |
 | Ad              | Java       | ✅                        | ✅                     | 🚧                   | 🚧    | ✅                | ✅                 | ✅        |
 | Cart            | .NET       | ✅                        | 🚧                     | 🚧                   | 🚧    | 🚧                | 🚧                 | 🚧        |
 | Checkout        | Go         | ✅                        | 🚧                     | 🚧                   | 🚧    | 🚧                | 🚧                 | 🚧        |
